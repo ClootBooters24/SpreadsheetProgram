@@ -1,0 +1,5 @@
+﻿  WarstlerC_SpreadsheetProgram.cpp
+C:\Users\clayw\source\repos\WarstlerC_SpreadsheetProgram\WarstlerC_SpreadsheetProgram.cpp(146,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\clayw\source\repos\WarstlerC_SpreadsheetProgram\WarstlerC_SpreadsheetProgram.cpp(152,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\clayw\source\repos\WarstlerC_SpreadsheetProgram\WarstlerC_SpreadsheetProgram.cpp(319,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  WarstlerC_SpreadsheetProgram.vcxproj -> C:\Users\clayw\source\repos\WarstlerC_SpreadsheetProgram\Debug\WarstlerC_SpreadsheetProgram.exe
